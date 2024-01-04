@@ -1,2 +1,3 @@
-# LojaEmPHP
+# LojaEmPHP em andamento...
  
+--> Projeto feito em Php puro e TailwindCSS
