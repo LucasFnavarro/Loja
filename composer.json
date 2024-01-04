@@ -1,0 +1,17 @@
+{
+    "name": "desktop/loja",
+    "description": "LojaOnline em PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lucas Navarro",
+            "email": "navarrolucas0009@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
+
+
+	`id_cliente`
+	`email` 
+	`nome_completo` 
+	`senha` 
+	`endereco`
+	`cidade`
+	`telefone` 
+	`purl` 
+	`ativo`
+	`create_at` 
+	`update_at`
+	`delete_at`
